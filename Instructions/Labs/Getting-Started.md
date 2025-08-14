@@ -58,7 +58,7 @@ Welcome to your Cloud scale analytics with Microsoft Fabric workshop! We've prep
 ## Accessing Your Lab Environment
 Once you're ready to dive in, your virtual machine and **Guide** will be right at your fingertips within your web browser.
 
-![07](./Images/GS1.png)
+![07](./Images/ws/GS1.png)
 
 ## Virtual Machine & Lab Guide
 
@@ -68,27 +68,27 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
 
 To get the lab environment details, you can select the **Environment** tab. Additionally, the credentials will also be emailed to your registered email address.
 
-   ![08](./Images/GS2.png)
+   ![08](./Images/ws/GS2.png)
+
+   >**Note:** You will see the DeploymentID value on the **Environment** tab, use it wherever you see SUFFIX or DeploymentID in lab steps.
 
 ## Utilizing the Split Window Feature
 
 Utilizing the Split Window Feature: For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the top right corner.
 
-   ![08](./Images/GS3.png)
-
-   >**Note:** You will see the DeploymentID value on the **Environment** tab, use it wherever you see SUFFIX or DeploymentID in lab steps.
+   ![08](./Images/ws/GS3.png)
 
 ## Managing Your Virtual Machine
  
 Feel free to **Start, Stop, or Restart** your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
 
-   ![08](./Images/GS5.png)
+   ![08](./Images/ws/GS5.png)
 
 ## Lab Guide Zoom In/Zoom Out Options
 
 To adjust the zoom level for the environment page, click the A↕ : 100% icon located next to the timer in the lab environment.
 
-   ![08](./Images/GS4.png)
+   ![08](./Images/ws/GS4.png)
 
 ## Let's Get Started with Power BI Portal
 
@@ -120,7 +120,7 @@ To adjust the zoom level for the environment page, click the A↕ : 100% icon lo
 
 1. You will be navigated to the Power BI Home page.
 
-   ![05](./Images/Power1.png)
+   ![05](./Images/ws/Power1.png)
 
 ## Support Contact
 
@@ -131,8 +131,8 @@ Learner Support Contacts:
 - Email Support: cloudlabs-support@spektrasystems.com
 - Live Chat Support: https://cloudlabs.ai/labs-support
 
-Now, click on **Next** from the lower right corner to move on to the next page.
+Now, click on **Next >>** from the lower right corner to move on to the next page.
    
-   ![05](./Images/page1.png)
+   ![05](./Images/ws/page2.png)
 
 ## Happy Learning!!
